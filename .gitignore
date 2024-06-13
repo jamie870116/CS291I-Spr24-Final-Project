@@ -82,3 +82,5 @@ ObjectDetection/fastlane/screenshots/**/*.png
 ObjectDetection/fastlane/test_output
 
 .DS_Store
+ObjectDetection/.DS_Store
+ARIndoor/.DS_Store
