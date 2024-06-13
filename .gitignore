@@ -1,0 +1,80 @@
+# XCode
+ARIndoor/xcuserhdata/
+
+# Finder
+ARIndoor/.DS_Store
+ARIndoor/.svn
+ARIndoor/*.swp
+
+# Cocoapods
+ARIndoor/Pods/
+ARIndoor/Podfile.lock
+
+#node
+ARIndoor/node_modules/
+ARIndoor/package-lock.json
+
+
+
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+## User settings
+ObjectDetection/xcuserdata/
+
+## Obj-C/Swift specific
+ObjectDetection/*.hmap
+
+## App packaging
+ObjectDetection/*.ipa
+ObjectDetection/*.dSYM.zip
+ObjectDetection/*.dSYM
+
+## Playgrounds
+ObjectDetection/timeline.xctimeline
+ObjectDetection/playground.xcworkspace
+
+# Swift Package Manager
+#
+# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
+# Packages/
+# Package.pins
+# Package.resolved
+# *.xcodeproj
+#
+# Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
+# hence it is not needed unless you have added a package configuration file to your project
+# .swiftpm
+
+ObjectDetection/.build/
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
+#
+# Pods/
+#
+# Add this line if you want to avoid checking in source code from the Xcode workspace
+# *.xcworkspace
+
+# Carthage
+#
+# Add this line if you want to avoid checking in source code from Carthage dependencies.
+# Carthage/Checkouts
+
+ObjectDetection/Carthage/Build/
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+ObjectDetection/fastlane/report.xml
+ObjectDetection/fastlane/Preview.html
+ObjectDetection/fastlane/screenshots/**/*.png
+ObjectDetection/fastlane/test_output

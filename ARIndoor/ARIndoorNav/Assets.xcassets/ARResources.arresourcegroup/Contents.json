@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "1.arreferenceimage"
+    },
+    {
+      "filename" : "pi-copy-copy.arreferenceimage"
+    },
+    {
+      "filename" : "pi-copy.arreferenceimage"
+    },
+    {
+      "filename" : "pi.arreferenceimage"
+    }
+  ]
+}
