@@ -14,7 +14,9 @@ ARIndoor/Podfile.lock
 ARIndoor/node_modules/
 ARIndoor/package-lock.json
 
-
+# firebase
+ARIndoor/Freak.md
+ARIndoor/ARIndoorNav/GoogleService-Info.plist
 
 # Xcode
 #
@@ -78,3 +80,5 @@ ObjectDetection/fastlane/report.xml
 ObjectDetection/fastlane/Preview.html
 ObjectDetection/fastlane/screenshots/**/*.png
 ObjectDetection/fastlane/test_output
+
+.DS_Store
